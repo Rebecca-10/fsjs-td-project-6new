@@ -14,7 +14,7 @@ app.listen(3001, () => {
 });
 
 //Routes
-app.get("/", (req, res, next) => {N
+app.get("/", (req, res, next) => {
   res.render("index", { projects });
 });
 
