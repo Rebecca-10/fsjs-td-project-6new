@@ -9,12 +9,12 @@ app.set("view engine", "pug");
 app.use("/static", express.static("public"));
 
 //Port
-app.listen(3000, () => {
-  console.log("The application is listening on localhost 3000!");
+app.listen(3001, () => {
+  console.log("The application is listening on localhost 3001!");
 });
 
 //Routes
-app.get("/", (req, res, next) => {
+app.get("/", (req, res, next) => {N
   res.render("index", { projects });
 });
 

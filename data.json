@@ -5,7 +5,7 @@
     "technologies": ["JavaScript", "CSS", "HTML"],
     "live_link": "https://rebecca-10.github.io/fsjs-td-project-1/",
     "github_link": "https://github.com/Rebecca-10/Techdegree-project-1.git",
-    "image_urls": ["./images/IMG-3079.JPG", "/static/image/randomQuote2.png"]
+    "image_urls": ["/static/images/randomQuoteGenerator1.png", "/static/images/randomQuoteGenerator1.png"]
  } ,
 {
     "id": 2,
@@ -14,7 +14,7 @@
     "technologies": ["JavaScript", "CSS", "HTML"],
     "live_link": "https://rebecca-10.github.io/fsjs-td-project-2/",
     "github_link": "https://github.com/Rebecca-10/fsjs-td-project-2.git",
-    "image_urls": ["/static/image/dataPagination1.png", "/static/image/dataPagination2.png"]
+    "image_urls": ["/static/images/dataPagination1.png", "/static/images/dataPagination2.png"]
 },
 {
     "id": 3,
@@ -23,7 +23,7 @@
     "technologies": ["JavaScript", "CSS", "HTML"],
     "live_link": "https://rebecca-10.github.io/fsjs-td-project-3a",
     "github_link": "https://github.com/Rebecca-10/fsjs-td-project-3a.git/",
-    "image_urls": ["/static/image/interactiveForm1.png", "/static/image/interactiveForm2.png"]
+    "image_urls": ["/static/images/interactiveForm1.png", "/static/images/interactiveForm2.png"]
 },
 {
     "id": 4,
@@ -32,7 +32,7 @@
     "technologies": ["JavaScript", "CSS", "HTML"],
     "live_link": "https://rebecca-10.github.io/fsjs-td-project-4/",
     "github_link": "https://github.com/Rebecca-10/fsjs-td-project-4.git",
-    "image_urls": ["/static/images/p5.2.jpg"]
+    "image_urls": ["/static/images/game1.png", "/static/images/game2.png"]
 },
 
 {
@@ -42,7 +42,7 @@
     "technologies": ["JavaScript", "CSS", "HTML"],
     "live_link":  "https://rebecca-10.github.io/fsjs-td-project-5//",
     "github_link": "https://github.com/Rebecca-10/fsjs-td-project-5.git",
-    "image_urls": ["/static/images/p5.2.jpg", ""]
+    "image_urls": ["/static/images/employeeDirectory1.png", "/static/images/employeeDirectory2.png"]
 }
 
 
