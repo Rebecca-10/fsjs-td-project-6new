@@ -1,0 +1,22 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "project 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rebecca",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rebecca-10/fsjs-td-project-06.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rebecca-10/fsjs-td-project-06/issues"
+  },
+  "homepage": "https://github.com/Rebecca-10/fsjs-td-project-06#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

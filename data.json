@@ -1,0 +1,51 @@
+{ "projects": [ {
+    "id": 1,
+    "project_name": "Random Quote Generator",
+    "description": "This project generates a random quote everytime the button is clicked.",
+    "technologies": ["JavaScript", "CSS", "HTML"],
+    "live_link": "https://rebecca-10.github.io/fsjs-td-project-1/",
+    "github_link": "https://github.com/Rebecca-10/Techdegree-project-1.git",
+    "image_urls": ["./images/IMG-3079.JPG", "/static/image/randomQuote2.png"]
+ } ,
+{
+    "id": 2,
+    "project_name": "Data Pagination and Filtering",
+    "description": "In this project I took an array of 42 students and assigned sets of 9 students per page. Added pagination buttons to paginate through each page displaying the students.",
+    "technologies": ["JavaScript", "CSS", "HTML"],
+    "live_link": "https://rebecca-10.github.io/fsjs-td-project-2/",
+    "github_link": "https://github.com/Rebecca-10/fsjs-td-project-2.git",
+    "image_urls": ["/static/image/dataPagination1.png", "/static/image/dataPagination2.png"]
+},
+{
+    "id": 3,
+    "project_name": "Interactive Form",
+    "description": "Add customization, conditional behavior, interactivity and user validation to a form",
+    "technologies": ["JavaScript", "CSS", "HTML"],
+    "live_link": "https://rebecca-10.github.io/fsjs-td-project-3a",
+    "github_link": "https://github.com/Rebecca-10/fsjs-td-project-3a.git/",
+    "image_urls": ["/static/image/interactiveForm1.png", "/static/image/interactiveForm2.png"]
+},
+{
+    "id": 4,
+    "project_name": "Phrase Hunter Game",
+    "description": "A browser-based guessing game",
+    "technologies": ["JavaScript", "CSS", "HTML"],
+    "live_link": "https://rebecca-10.github.io/fsjs-td-project-4/",
+    "github_link": "https://github.com/Rebecca-10/fsjs-td-project-4.git",
+    "image_urls": ["/static/images/p5.2.jpg"]
+},
+
+{
+    "id": 5,
+    "project_name": "Employee Directory",
+    "description": "Employee Directory",
+    "technologies": ["JavaScript", "CSS", "HTML"],
+    "live_link":  "https://rebecca-10.github.io/fsjs-td-project-5//",
+    "github_link": "https://github.com/Rebecca-10/fsjs-td-project-5.git",
+    "image_urls": ["/static/images/p5.2.jpg", ""]
+}
+
+
+
+
+] }
